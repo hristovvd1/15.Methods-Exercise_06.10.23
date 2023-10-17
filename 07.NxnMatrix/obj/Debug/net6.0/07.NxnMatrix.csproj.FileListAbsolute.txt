@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\bin\Debug\net6.0\07.NxnMatrix.exe
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\bin\Debug\net6.0\07.NxnMatrix.deps.json
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\bin\Debug\net6.0\07.NxnMatrix.runtimeconfig.json
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\bin\Debug\net6.0\07.NxnMatrix.dll
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\bin\Debug\net6.0\07.NxnMatrix.pdb
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\obj\Debug\net6.0\07.NxnMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\obj\Debug\net6.0\07.NxnMatrix.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\obj\Debug\net6.0\07.NxnMatrix.AssemblyInfo.cs
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\obj\Debug\net6.0\07.NxnMatrix.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\obj\Debug\net6.0\07.NxnMatrix.dll
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\obj\Debug\net6.0\refint\07.NxnMatrix.dll
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\obj\Debug\net6.0\07.NxnMatrix.pdb
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\obj\Debug\net6.0\07.NxnMatrix.genruntimeconfig.cache
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\07.NxnMatrix\obj\Debug\net6.0\ref\07.NxnMatrix.dll

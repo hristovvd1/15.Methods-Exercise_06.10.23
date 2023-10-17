@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.exe
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.deps.json
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.runtimeconfig.json
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.dll
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\bin\Debug\net6.0\06.MiddleCharacters.pdb
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.AssemblyInfo.cs
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.dll
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\obj\Debug\net6.0\refint\06.MiddleCharacters.dll
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.pdb
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\obj\Debug\net6.0\06.MiddleCharacters.genruntimeconfig.cache
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\06.MiddleCharacters\obj\Debug\net6.0\ref\06.MiddleCharacters.dll

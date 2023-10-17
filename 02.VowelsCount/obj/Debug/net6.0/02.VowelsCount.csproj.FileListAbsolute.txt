@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\bin\Debug\net6.0\02.VowelsCount.exe
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\bin\Debug\net6.0\02.VowelsCount.deps.json
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\bin\Debug\net6.0\02.VowelsCount.runtimeconfig.json
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\bin\Debug\net6.0\02.VowelsCount.dll
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\bin\Debug\net6.0\02.VowelsCount.pdb
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.AssemblyInfo.cs
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.dll
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\obj\Debug\net6.0\refint\02.VowelsCount.dll
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.pdb
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\obj\Debug\net6.0\02.VowelsCount.genruntimeconfig.cache
+C:\Users\hrist\source\repos\15.Methods-Exercise_06.10.23\02.VowelsCount\obj\Debug\net6.0\ref\02.VowelsCount.dll
